@@ -199,7 +199,7 @@ When a game ends, the client is notified, prints on the console the received inf
 and, after 10 seconds, creates a new board window to start the game.
 
 #### Bot Client
-The Bot client is a program that connects to a server and plays automatically, withoud
+The Bot client is a program that connects to a server and plays automatically, without
 using any graphical element.
 This program receives as an argument the address of the server, and starts sending picks
 to the server.
